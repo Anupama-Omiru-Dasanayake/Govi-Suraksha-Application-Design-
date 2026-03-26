@@ -76,5 +76,8 @@ The goal of this project is to explore how digital tools and mobile applications
 **Anupama Omiru**  
 Computer Science Undergraduate
 
+Figma Link:
+https://www.figma.com/design/rdMnDP458B2geI5dPgWEzl/Govi_Suraksha_Prototype?m=auto&t=xByeeU6dGwObdI8m-1
+
 Gmail:
 omiru.dasanayake@gmail.com
